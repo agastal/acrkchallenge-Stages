@@ -2,8 +2,9 @@
 
 Custom stages for **Assetto Corsa Rally**, built on real roads, for the drivers of
 [ACRK Challenge](https://ch.acrkhotlap.workers.dev). They are installed and removed by
-[acrk-tray](https://github.com/agastal/acrkchallenge-Release), menu *Community stages...*:
-nothing to copy by hand.
+[acrk-tray](https://github.com/agastal/acrkchallenge-Release), menu *Community stages...*
+(version 0.21.0 or later): nothing to copy by hand. Install them with the game closed; the location
+*Sardegna* then appears in the game's stage list.
 
 Each release is built for one Steam build of the game (its tag is `b<build>-<version>`); after a game
 update the stages are rebuilt and released again. Every file is listed with its SHA-256 in
@@ -18,7 +19,8 @@ To remove them by hand: delete the `zz_acrxs_*` files from
 
 Stage aggiuntivi per **Assetto Corsa Rally**, costruiti su strade vere, per i piloti di
 [ACRK Challenge](https://ch.acrkhotlap.workers.dev). Li installa e li toglie
-[acrk-tray](https://github.com/agastal/acrkchallenge-Release), menu *Stage della community...*.
+[acrk-tray](https://github.com/agastal/acrkchallenge-Release), menu *Stage della community...*
+(versione 0.21.0 o successiva), a gioco chiuso; poi la località *Sardegna* compare tra gli stage del gioco.
 
 Ogni release vale per una build del gioco su Steam; dopo un aggiornamento del gioco gli stage vengono
 ricostruiti e ripubblicati. Per toglierli a mano: cancellare i file `zz_acrxs_*` da
